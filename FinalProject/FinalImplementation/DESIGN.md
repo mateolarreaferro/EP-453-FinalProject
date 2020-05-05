@@ -20,4 +20,4 @@ It terms of Audio, I recorded all of the samples using Ableton Live and Logic Pr
 
 ## Scriabin consists of a drawing tool that incorporates keys to make a simple composition, both visually and musically. The initial idea was to have twelve keys, each with its corresponding color according to Scriabin’s circle of fifths. For this project, one key (D) is working as a proof of concept. 
 
-##The main menu --- Once the key is selected, the program uses navigation controller to enter the new screen. This new screen has the specific background color corresponding to the key; for example, D is yellow. The user can choose the width of the brush and its color, with the pentatonic scale as the basis.
+The main menu --- Once the key is selected, the program uses navigation controller to enter the new screen. This new screen has the specific background color corresponding to the key; for example, D is yellow. The user can choose the width of the brush and its color, with the pentatonic scale as the basis.
